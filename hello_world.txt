@@ -1,0 +1,1 @@
+I just fucking created and opened a file using just the terminal. To open files with the terminal just use the command "open" followed by the path or name of the file 
